@@ -3,5 +3,7 @@ Ini adalah laravel club my first project
 Resolusi
 
 1. konsisten untuk uploud git minimal 2 minggu sekali
+* bisa pulosud maupun upadte
 2. bekerja sama dengan menggunkan github
+* dengan team agar lebih muda
 3. dapat team yang sangar
