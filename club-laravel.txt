@@ -1,0 +1,6 @@
+Ini adalah laravel club my first project
+
+Resolusi
+
+1. konsisten untuk uploud git minimal 2 minggu sekali
+2. bekerja sama dengan menggunkan github
