@@ -4,3 +4,4 @@ Resolusi
 
 1. konsisten untuk uploud git minimal 2 minggu sekali
 2. bekerja sama dengan menggunkan github
+3. dapat team yang sangar
